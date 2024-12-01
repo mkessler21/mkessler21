@@ -28,28 +28,31 @@ Applied Analytics & Technology
 
     Built a native Ableton plugin that reads MIDI data, integrates it with a Hugging Face transformer model, and generates melodies and chord progressions.
     Developed the backend in Python for API integration, MIDI parsing, and generation, ensuring smooth plugin functionality within Ableton Live.
+   
     **Techstack**: Python, JavaScript, Hugging Face
 
-2. NGram Viewer and WordNet Integration
+3. NGram Viewer and WordNet Integration
 
     Created a browser-based tool for analyzing historical English word usage using Google Ngram data.
     Combined JavaScript/HTML with a Java backend to build an NGramMap for querying datasets efficiently.
     Integrated WordNet for exploring word relationships, enabling fast, interactive linguistic analysis.
+   
     **Techstack**: Java, HTML, Javascript, CSS
 
-3. NLP Email Classification 
+5. NLP Email Classification 
 
     Built a spam email classifier using machine learning techniques, focusing on feature extraction and optimization.
     Applied NLP techniques to preprocess email text data, achieving a high accuracy in classification tasks.
+   
     **Techstack**: Python, Jupyter Notebook, scikit-learn, PyTorch, matplotlib, pandas, seaborn
 
-4. Culinary Connect
+7. Culinary Connect
 
     Designed and prototyped a cooking assistant iOS app in Figma, prioritizing an intuitive and user-friendly UI/UX.
     Developed the app in Swift, integrating Firebase for data storage and APIs to fetch external recipes, enabling dynamic and personalized content delivery.
     **Techstack**: Figma, Swift, Firebase
    
-5. Tile-Based Game Engine
+8. Tile-Based Game Engine
 
     Designed a 2D tile-based game engine in Java, featuring complex world generation and user interactivity.
     Integrated a heads-up display (HUD) for real-time tile data, enhancing the player's experience.
