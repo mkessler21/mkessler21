@@ -50,12 +50,14 @@ Applied Analytics & Technology
 
     Designed and prototyped a cooking assistant iOS app in Figma, prioritizing an intuitive and user-friendly UI/UX.
     Developed the app in Swift, integrating Firebase for data storage and APIs to fetch external recipes, enabling dynamic and personalized content delivery.
+   
     **Techstack**: Figma, Swift, Firebase
    
-8. Tile-Based Game Engine
+9. Tile-Based Game Engine
 
     Designed a 2D tile-based game engine in Java, featuring complex world generation and user interactivity.
     Integrated a heads-up display (HUD) for real-time tile data, enhancing the player's experience.
+   
     **Techstack**: Java
 
 
@@ -64,5 +66,5 @@ Applied Analytics & Technology
 I'm excited to continue working on machine learning and NLP projects, with a special focus on developing AI-powered tools for real-world business applications.
 
 📫 Contact Me
-Email: mpk21@berkeley.edu
-LinkedIn: https://www.linkedin.com/in/maxkessler1121/ 
+ **Email**: mpk21@berkeley.edu
+ **LinkedIn**: https://www.linkedin.com/in/maxkessler1121/ 
