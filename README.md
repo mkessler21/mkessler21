@@ -4,26 +4,6 @@ Max Kessler's Projects and Coursework Repository
 
 Welcome to my repository! This is a curated collection of my academic and personal projects, showcasing my growth in data science, software development, and machine learning.
 
-📚 Coursework Highlights
-Computer Science & Data Science
-
-    COMPSCI 61A: The Structure and Interpretation of Computer Programs
-    COMPSCI 61B: Data Structures and Algorithms
-    COMPSCI 70: Discrete Mathematics and Probability Theory
-    COMPSCI 189: Machine Learning 
-    COMPSCI 194: Special Topics – Advanced LLM Agents
-    DATA C100: Principles & Techniques of Data Science
-    DATA C140: Probability for Data Science
-    INFO 159: Natural Language Processing
-    STAT 20: Probability and Statistics with R
-
-Applied Analytics & Technology
-
-    UGBA 104: Introduction to Business Analytics
-    UGBA 133: Investments
-    ECON 140: Econometrics
-    ENGIN 183E: Tech Entrepreneurship
-
 🛠️ Projects
 1. Melodify: MIDI Music Generator
 
@@ -56,6 +36,25 @@ Applied Analytics & Technology
     Integrated a heads-up display (HUD) for real-time tile data, enhancing the player's experience.<br />
     - **Techstack**: Java
 
+📚 Coursework Highlights
+Computer Science & Data Science
+
+    COMPSCI 61A: The Structure and Interpretation of Computer Programs
+    COMPSCI 61B: Data Structures and Algorithms
+    COMPSCI 70: Discrete Mathematics and Probability Theory
+    COMPSCI 189: Machine Learning 
+    COMPSCI 194: Special Topics – Advanced LLM Agents
+    DATA C100: Principles & Techniques of Data Science
+    DATA C140: Probability for Data Science
+    INFO 159: Natural Language Processing
+    STAT 20: Probability and Statistics with R
+
+Applied Analytics & Technology
+
+    UGBA 104: Introduction to Business Analytics
+    UGBA 133: Investments
+    ECON 140: Econometrics
+    ENGIN 183E: Tech Entrepreneurship
 
 📝 What’s Next?
 
