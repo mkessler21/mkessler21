@@ -1,8 +1,9 @@
 Max Kessler's Projects and Coursework Repository
 
-🎓 Senior Data Science Major at UC Berkeley | First-Generation Student | Aspiring Product/Project Manager
+🎓 Senior Data Science Major at UC Berkeley
 
 Welcome to my repository! This is a curated collection of my academic and personal projects, showcasing my growth in data science, software development, and machine learning.
+
 📚 Coursework Highlights
 Computer Science & Data Science
 
@@ -27,8 +28,7 @@ Applied Analytics & Technology
 1. Melodify: MIDI Music Generator
 
     Built a native Ableton plugin that reads MIDI data, integrates it with a Hugging Face transformer model, and generates melodies and chord progressions.
-    Developed the backend in Python for API integration, MIDI parsing, and generation, ensuring smooth plugin functionality within Ableton Live.
-   
+    Developed the backend in Python for API integration, MIDI parsing, and generation, ensuring smooth plugin functionality within Ableton Live.<br />
     **Techstack**: Python, JavaScript, Hugging Face
 
 3. NGram Viewer and WordNet Integration
