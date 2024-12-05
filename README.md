@@ -1,4 +1,4 @@
-# Welcome to my Repository!
+# Welcome to my repository!
 
 ### A few things about myself:
 * I am studying Data Science with Business Analytics @ UC Berkeley.
