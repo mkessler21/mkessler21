@@ -36,26 +36,6 @@ Welcome to my repository! This is a curated collection of my academic and person
     Integrated a heads-up display (HUD) for real-time tile data, enhancing the player's experience.<br />
     - **Techstack**: Java
 
-📚 Coursework Highlights
-Computer Science & Data Science
-
-    COMPSCI 61A: The Structure and Interpretation of Computer Programs
-    COMPSCI 61B: Data Structures and Algorithms
-    COMPSCI 70: Discrete Mathematics and Probability Theory
-    COMPSCI 189: Machine Learning 
-    COMPSCI 194: Special Topics – Advanced LLM Agents
-    DATA C100: Principles & Techniques of Data Science
-    DATA C140: Probability for Data Science
-    INFO 159: Natural Language Processing
-    STAT 20: Probability and Statistics with R
-
-Applied Analytics & Technology
-
-    UGBA 104: Introduction to Business Analytics
-    UGBA 133: Investments
-    ECON 140: Econometrics
-    ENGIN 183E: Tech Entrepreneurship
-
 📝 What’s Next?
 
 I'm excited to continue working on AI, ML, and NLP projects, with a special focus on developing AI-powered tools for real-world business applications.
