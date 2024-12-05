@@ -17,18 +17,20 @@
     Applied NLP techniques to preprocess email text data, achieving a high accuracy in classification tasks.<br />
     - **Techstack**: Python, Jupyter Notebook, scikit-learn, PyTorch, matplotlib, pandas, seaborn
 
- 3. NGram Viewer and WordNet Integration
+ 3. [NGram Viewer and WordNet Integration](https://github.com/Berkeley-CS61B-Student/fa24-s1033/tree/main/proj2b)
 
     Created a browser-based tool for analyzing historical English word usage using Google Ngram data.
     Combined JavaScript/HTML with a Java backend to build an NGramMap for querying datasets efficiently.
     Integrated WordNet for exploring word relationships, enabling fast, interactive linguistic analysis.<br />
     - **Techstack**: Java, HTML, Javascript, CSS
 
- 4. Culinary Connect
+ 4. [Culinary Connect](https://github.com/SpecialAir123/Cubstart-Final-Project)
 
     Designed and prototyped a cooking assistant iOS app in Figma, prioritizing an intuitive and user-friendly UI/UX.
     Developed the app in Swift, integrating Firebase for data storage and APIs to fetch external recipes, enabling dynamic and personalized content delivery.<br />
     - **Techstack**: Figma, Swift, Firebase
+   
+  5. [Haunted Mansion 2D Tile Game](https://github.com/Berkeley-CS61B-Student/fa24-proj3-g461/tree/main)
    
 ### 📝 What’s Next?<br />
 
