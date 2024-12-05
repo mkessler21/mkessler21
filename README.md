@@ -1,15 +1,21 @@
-# My Projects and Coursework Repo
+# Welcome to my Repository!
 
-## 🎓 Senior Data Science Major at UC Berkeley
+### A few things about myself:
+* I am studying Data Science with Business Analytics @ UC Berkeley.
+* I enjoy working on projects in machine learning, AI, data science, and software applications, focusing on creating impactful business solutions.
 
-Welcome to my repository! This is a curated collection of my academic and personal projects, showcasing my growth in data science, software development, and machine learning.
-
-### 🛠️ Projects
+## 🛠️ Projects
 1. Melodify: MIDI Music Generator
 
     Built a native Ableton plugin that reads MIDI data, integrates it with a Hugging Face transformer model, and generates melodies and chord progressions.
     Developed the backend in Python for API integration, MIDI parsing, and generation, ensuring smooth plugin functionality within Ableton Live.<br />
     - **Techstack**: Python, JavaScript, Hugging Face
+
+5. NLP Email Classification 
+
+    - Built a spam email classifier using machine learning techniques, focusing on feature extraction and optimization.
+    Applied NLP techniques to preprocess email text data, achieving a high accuracy in classification tasks.<br />
+    - **Techstack**: Python, Jupyter Notebook, scikit-learn, PyTorch, matplotlib, pandas, seaborn
 
 3. NGram Viewer and WordNet Integration
 
@@ -18,28 +24,16 @@ Welcome to my repository! This is a curated collection of my academic and person
     Integrated WordNet for exploring word relationships, enabling fast, interactive linguistic analysis.<br />
     - **Techstack**: Java, HTML, Javascript, CSS
 
-5. NLP Email Classification 
-
-    - Built a spam email classifier using machine learning techniques, focusing on feature extraction and optimization.
-    Applied NLP techniques to preprocess email text data, achieving a high accuracy in classification tasks.<br />
-    - **Techstack**: Python, Jupyter Notebook, scikit-learn, PyTorch, matplotlib, pandas, seaborn
-
 7. Culinary Connect
 
    -  Designed and prototyped a cooking assistant iOS app in Figma, prioritizing an intuitive and user-friendly UI/UX.
     Developed the app in Swift, integrating Firebase for data storage and APIs to fetch external recipes, enabling dynamic and personalized content delivery.<br />
     - **Techstack**: Figma, Swift, Firebase
    
-9. Tile-Based Game Engine
-
-    - Designed a 2D tile-based game engine in Java, featuring complex world generation and user interactivity.
-    Integrated a heads-up display (HUD) for real-time tile data, enhancing the player's experience.<br />
-    - **Techstack**: Java
-
-📝 What’s Next?
+### 📝 What’s Next?<br />
 
 I'm excited to continue working on AI, ML, and NLP projects, with a special focus on developing AI-powered tools for real-world business applications.
 
-📫 Contact Me<br />
+### 📫 Contact Me<br />
  **Email**: mpk21@berkeley.edu<br />
  **LinkedIn**: https://www.linkedin.com/in/maxkessler1121/ 
