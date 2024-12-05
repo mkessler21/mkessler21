@@ -1,4 +1,4 @@
-Max Kessler's Projects and Coursework Repository
+###My Projects and Coursework Repo
 
 🎓 Senior Data Science Major at UC Berkeley
 
