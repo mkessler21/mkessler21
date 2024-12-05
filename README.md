@@ -4,8 +4,8 @@
 * I am studying Data Science with Business Analytics @ UC Berkeley.
 * I enjoy working on projects in machine learning, AI, data science, and software applications, focusing on creating impactful business solutions.
 
-## 🛠️ Projects
- 1. Melodify: MIDI Music Generator<br />
+## 🛠️ Projects ##
+ 1. [Melodify: MIDI Music Generator](https://github.com/melodify-ai/backend)
 
     Built a native Ableton plugin that reads MIDI data, integrates it with a Hugging Face transformer model, and generates melodies and chord progressions.
     Developed the backend in Python for API integration, MIDI parsing, and generation, ensuring smooth plugin functionality within Ableton Live.<br />
