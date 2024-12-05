@@ -1,10 +1,10 @@
-###My Projects and Coursework Repo
+# My Projects and Coursework Repo
 
-🎓 Senior Data Science Major at UC Berkeley
+## 🎓 Senior Data Science Major at UC Berkeley
 
 Welcome to my repository! This is a curated collection of my academic and personal projects, showcasing my growth in data science, software development, and machine learning.
 
-🛠️ Projects
+### 🛠️ Projects
 1. Melodify: MIDI Music Generator
 
     Built a native Ableton plugin that reads MIDI data, integrates it with a Hugging Face transformer model, and generates melodies and chord progressions.
