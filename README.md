@@ -31,6 +31,7 @@
     - **Techstack**: Figma, Swift, Firebase
    
   5. ## [Haunted Mansion 2D Tile Game](https://github.com/Berkeley-CS61B-Student/fa24-proj3-g461/tree/main)
+
    
 ### 📝 What’s Next?<br />
 
