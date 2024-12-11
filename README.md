@@ -27,10 +27,14 @@
  4. ## [Culinary Connect](https://github.com/SpecialAir123/Cubstart-Final-Project)
 
     Designed and prototyped a cooking assistant iOS app in Figma, prioritizing an intuitive and user-friendly UI/UX.
-    Developed the app in Swift, integrating Firebase for data storage and APIs to fetch external recipes, enabling dynamic and personalized content delivery.<br />
+    Developed the app in Swift, integrating local data storage and tools like ingredient information and timer to help users cook.<br />
     - **Techstack**: Figma, Swift, Firebase
    
-  5. ## [Haunted Mansion 2D Tile Game](https://github.com/Berkeley-CS61B-Student/fa24-proj3-g461/tree/main)
+ 5. ## [Haunted Mansion 2D Tile Game](https://github.com/Berkeley-CS61B-Student/fa24-proj3-g461/tree/main)
+
+    Developed a game engine using Java for generating and exploring 2D tile-based worlds with user interactivity, achieving complex world generation and seamless user control. 
+    Implemented a user interface that includes a heads-up display (HUD) for real-time tile information, enhancing the user experience and interactivity.<br />
+    - **Techstack**: Java
 
    
 ### 📝 What’s Next?<br />
