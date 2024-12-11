@@ -17,7 +17,7 @@
     Applied NLP techniques to preprocess email text data, achieving a high accuracy in classification tasks.<br />
     - **Techstack**: Python, Jupyter Notebook, scikit-learn, PyTorch, matplotlib, pandas, seaborn
 
- 3. ## [NGram Viewer and WordNet Integration](https://github.com/Berkeley-CS61B-Student/fa24-s1033/tree/main/proj2b)
+ 3. ## [NGram Viewer and WordNet Integration](https://github.com/mkessler21/NGram-Wordnet)
 
     Created a browser-based tool for analyzing historical English word usage using Google Ngram data.
     Combined JavaScript/HTML with a Java backend to build an NGramMap for querying datasets efficiently.
