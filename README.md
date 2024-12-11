@@ -2,7 +2,7 @@
 
 ### A few things about myself:
 * I am studying Data Science with Business Analytics @ UC Berkeley.
-* I enjoy working on projects in machine learning, AI, data science, and software applications, focusing on creating impactful business solutions.
+* I enjoy working on projects in machine learning, AI, data science, and software applications, and more recently business-oriented solutions!
 
 # 🛠️ Projects
  1. ## [Melodify: MIDI Music Generator](https://github.com/melodify-ai)
