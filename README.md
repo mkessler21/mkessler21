@@ -30,7 +30,7 @@
     Developed the app in Swift, integrating local data storage and tools like ingredient information and timer to help users cook.<br />
     - **Techstack**: Figma, Swift, Firebase
    
- 5. ## [Haunted Mansion 2D Tile Game](https://github.com/Berkeley-CS61B-Student/fa24-proj3-g461/tree/main)
+ 5. ## [Haunted Mansion 2D Tile Game](https://github.com/mkessler21/Haunted-Mansion)
 
     Developed a game engine using Java for generating and exploring 2D tile-based worlds with user interactivity, achieving complex world generation and seamless user control. 
     Implemented a user interface that includes a heads-up display (HUD) for real-time tile information, enhancing the user experience and interactivity.<br />
