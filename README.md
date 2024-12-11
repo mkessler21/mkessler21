@@ -11,7 +11,7 @@
     Developed the backend in Python for API integration, MIDI parsing, and generation, ensuring smooth plugin functionality within Ableton Live.<br />
     - **Techstack**: Python, JavaScript, Hugging Face
 
- 2. ## NLP Email Classification 
+ 2. ## [NLP Email Classification](https://github.com/mkessler21/NLP-Email-Classifier)
 
     Built a spam email classifier using machine learning techniques, focusing on feature extraction and optimization.
     Applied NLP techniques to preprocess email text data, achieving a high accuracy in classification tasks.<br />
