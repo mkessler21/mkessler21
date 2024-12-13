@@ -22,7 +22,7 @@
     Created a browser-based tool for analyzing historical English word usage using Google Ngram data.
     Combined JavaScript/HTML with a Java backend to build an NGramMap for querying datasets efficiently.
     Integrated WordNet for exploring word relationships, enabling fast, interactive linguistic analysis.<br />
-    - **Techstack**: Java, HTML, Javascript, CSS
+    - **Techstack**: Java, HTML, Javascript
 
  4. ## [Culinary Connect](https://github.com/SpecialAir123/Cubstart-Final-Project)
 
