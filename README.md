@@ -7,7 +7,7 @@
 # 🛠️ Projects
  1. ## [Melodify: MIDI Music Generator](https://github.com/melodify-ai)
 
-    Built a native Ableton plugin that reads MIDI data, integrates it with a Hugging Face transformer model, and generates melodies and chord progressions.
+    (Hackathon Project) Built a native Ableton plugin that reads MIDI data, integrates it with a Hugging Face transformer model, and generates melodies and chord progressions.
     Developed the backend in Python for API integration, MIDI parsing, and generation, ensuring smooth plugin functionality within Ableton Live.<br />
     - **Techstack**: Python, JavaScript, Flask, Hugging Face
 
