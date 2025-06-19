@@ -13,30 +13,24 @@
     - **Techstack**: Python (FastAPI), React, MongoDB Atlas, Perplexity API, OpenAI API, BeautifulSoup
 
 
- 3. ## [Melodify: MIDI Music Generator](https://github.com/melodify-ai)
+ 2. ## [Melodify: MIDI Music Generator](https://github.com/melodify-ai)
 
     (Hackathon Project) Built a native Ableton plugin that reads MIDI data, integrates it with a Hugging Face transformer model, and generates melodies and chord progressions.
     Developed the backend in Python for API integration, MIDI parsing, and generation, ensuring smooth plugin functionality within Ableton Live.<br />
     - **Techstack**: Python, JavaScript, Flask, Hugging Face
 
- 4. ## [NLP Email Classification](https://github.com/mkessler21/NLP-Email-Classifier)
+ 3. ## [NLP Email Classification](https://github.com/mkessler21/NLP-Email-Classifier)
 
     Built a spam email classifier using machine learning techniques, focusing on feature extraction and optimization.
     Applied NLP techniques to preprocess email text data, achieving a high accuracy in classification tasks.<br />
     - **Techstack**: Python, Jupyter Notebook, scikit-learn, PyTorch, matplotlib, pandas, seaborn
 
- 5. ## [NGram Viewer and WordNet Integration](https://github.com/mkessler21/NGram-Wordnet)
+ 4. ## [NGram Viewer and WordNet Integration](https://github.com/mkessler21/NGram-Wordnet)
 
     Created a browser-based tool for analyzing historical English word usage using Google Ngram data.
     Combined JavaScript/HTML with a Java backend to build an NGramMap for querying datasets efficiently.
     Integrated WordNet for exploring word relationships, enabling fast, interactive linguistic analysis.<br />
     - **Techstack**: Java, HTML, Javascript
-
- 6. ## [Culinary Connect](https://github.com/SpecialAir123/Cubstart-Final-Project)
-
-    Designed and prototyped a cooking assistant iOS app in Figma, prioritizing an intuitive and user-friendly UI/UX.
-    Developed the app in Swift, integrating local data storage and tools like ingredient information and timer to help users cook.<br />
-    - **Techstack**: Figma, Swift, Firebase
    
    
 ### 📝 What’s Next?<br />
